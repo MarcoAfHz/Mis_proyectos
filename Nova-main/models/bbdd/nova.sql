@@ -66,7 +66,7 @@ CREATE TABLE lugar(
 INSERT INTO usuarios(usuario,pass,rol) 
 VALUES
 ("admin", "$2a$12$r./u0nOrrhjZO1seOCaM6.xKTOKyUpQPaOA6rPkiGFr1wZkdQimCK","admin"),
-("trabajador1", "$2a$12$r./u0nOrrhjZO1seOCaM6.xKTOKyUpQPaOA6rPkiGFr1wZkdQimCK","lectura");
+("MARCO", "$2y$10$7eFBsGTZYa6mXSGnQnC6d.4IrLgG7yhSEBdhfdubQSfcEiUhKsVeK","lectura");
 INSERT INTO lugar(localidad, recinto, direccion) 
 VALUES
 ("Granada", "Sala a", "Ferrocarril Jorge 2"),

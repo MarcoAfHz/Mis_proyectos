@@ -1,0 +1,8 @@
+Buenas estas son las cuentas para entrar a la página:
+ADMIN:
+usuario: admin
+contrasena: admin
+
+Trabajador
+usuario: MARCO
+contrasena: MARCO
